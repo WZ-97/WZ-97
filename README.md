@@ -8,6 +8,9 @@
 <a href="https://www.linkedin.com/in/wz97/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+<a href="https://xhslink.com/m/1W6v9fXEyar">
+  <img src="https://img.shields.io/badge/RedNote-%23FF2442?style=flat-square&logoColor=white" alt="RedNote Badge"/>
+</a>
 
 <h2 align="center"> :pushpin: About Me: My Professional Development Path
 <br/>
